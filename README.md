@@ -11,6 +11,7 @@ I build things at the intersection of AI, data, and the web — from NLP-powered
 **Languages:** Python · TypeScript · JavaScript · SQL  
 **Full Stack:** React · Next.js · Node.js · REST API · MongoDB  
 **AI / ML:** scikit-learn · pandas · spaCy · NLP · Claude API · Gemini API  
+**Google Cloud:** Vertex AI · Gemini · Cloud Run · GKE · BigQuery · CI/CD Pipelines · MLOps
 **Web / UI:** Streamlit · Vite  
 **Tools:** Jupyter Notebook · FastAPI · Git · Postman
 
@@ -49,8 +50,58 @@ Built for the India Runs Data & AI Challenge — ranks candidates by skills, car
 **Certificate of Completion — Infosys Springboard Internship 6.0**  
 HireHelper: Development of an On-Demand Task Assistance Application  
 *Issued May 27, 2026 · Infosys Limited · Verified at verify.onwingspan.com*
-
 ---
+## Google Cloud (40 badges · Jun 2025 – May 2026)
+View full badge profile →
+**AI & Generative AI**
+- Use Machine Learning APIs on Google Cloud
+- Engineer AI Agents with Agent Development Kit (ADK)
+- Gen AI: Beyond the Chatbot
+- Develop Gen AI Apps with Gemini and Streamlit
+- Create Generative AI Apps on Google Cloud
+- Website Modernization with Generative AI on Google Cloud
+- Build AI Agents with Agent Platform and Flutter
+- Inspect Rich Documents with Gemini Multimodality and Multimodal RAG
+- Vector Search and Embeddings
+- Introduction to Vertex AI Studio
+- Machine Learning Operations (MLOps) for Generative AI
+  
+**Responsible AI**
+- Responsible AI for Developers: Fairness & Bias
+- Responsible AI for Developers: Interpretability & Transparency
+- Responsible AI for Developers: Privacy & Safety
+- Responsible AI: Applying AI Principles with Google Cloud
+- Introduction to Responsible AI
+
+**Gemini for Professionals**
+- Gemini for Data Scientists and Analysts
+- Gemini for Application Developers
+- Gemini for Cloud Architects
+- Gemini for DevOps Engineers
+- Gemini for Security Engineers
+- Gemini for Network Engineers
+- Gemini for end-to-end SDLC
+- Streamline App Development with Gemini Code Assist
+
+**Cloud Infrastructure & DevOps**
+- Implement CI/CD Pipelines on Google Cloud
+- Manage Kubernetes in Google Cloud
+- Build a Secure Google Cloud Network
+- Develop Your Google Cloud Network
+- Set Up a Google Cloud Network
+- Build Serverless Applications with Cloud Run Functions
+- Share Data Using Google Data Cloud
+- Get Started with Sensitive Data Protection
+
+**ML Foundations**
+- Transformer Models and BERT Model
+- Attention Mechanism
+- Encoder-Decoder Architecture
+- Introduction to Image Generation
+- Create Image Captioning Models
+- Introduction to Large Language Models
+- Introduction to Generative AI
+- Prompt Design in Agent Platform
 
 ## 📚 Currently learning
 
