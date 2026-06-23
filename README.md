@@ -1,6 +1,6 @@
 # Hi, I'm Maram Anusha 👋
 
-**Computer Science student · Guntur, Andhra Pradesh, India**
+**Computer Science with Artificial Intelligence student · Chilakaluripet, Guntur, Andhra Pradesh, India**
 
 I build things at the intersection of AI, data, and the web — from NLP-powered legal tools to real-time data experiences. Currently exploring full stack development and data analytics, with a focus on real-world applications for Indian markets.
 
@@ -48,9 +48,9 @@ Built for the India Runs Data & AI Challenge — ranks candidates by skills, car
 
 Open to **internships**, **collaborations**, and **entry-level roles** in Full Stack Development or Data Analytics.
 
-- 💼 [LinkedIn](https:www.linkedin.com/in/maram-anusha-998b18369) — update this!
-- 📧 your.email@example.com — update this!
-- 📍 Guntur, Andhra Pradesh, India
+- 💼 [LinkedIn](https:www.linkedin.com/in/maram-anusha-998b18369)
+- 📧 anushamaram19@gmail.com — 
+- 📍Chilakaluripet, Guntur, Andhra Pradesh, India
 
 ---
 
