@@ -52,7 +52,8 @@ HireHelper: Development of an On-Demand Task Assistance Application
 *Issued May 27, 2026 · Infosys Limited · Verified at verify.onwingspan.com*
 ---
 ## Google Cloud (40 badges · Jun 2025 – May 2026)
-View full badge profile →
+*[View full badge profile →](https://www.skills.google/public_profiles/ccc7232a-3242-4f43-b3a6-fdd6149954d9)*
+
 **AI & Generative AI**
 - Use Machine Learning APIs on Google Cloud
 - Engineer AI Agents with Agent Development Kit (ADK)
