@@ -2,27 +2,36 @@
 
 **Computer Science with Artificial Intelligence student · Chilakaluripet, Guntur, Andhra Pradesh, India**
 
-I build things at the intersection of AI, data, and the web — from NLP-powered legal tools to real-time data experiences. Currently exploring full stack development and data analytics, with a focus on real-world applications for Indian markets.
+I build things at the intersection of AI, data, and the web — from NLP-powered legal tools to full stack task management platforms. Passionate about solving real-world problems for Indian markets through technology.
 
 ---
 
 ## 🛠 What I work with
 
-**Languages:** Python · TypeScript · JavaScript  
+**Languages:** Python · TypeScript · JavaScript · SQL  
+**Full Stack:** React · Next.js · Node.js · REST API · MongoDB  
 **AI / ML:** scikit-learn · pandas · spaCy · NLP · Claude API · Gemini API  
-**Web:** Streamlit · Vite · Node.js · React (learning)  
-**Tools:** Jupyter Notebook · FastAPI · Git
+**Web / UI:** Streamlit · Vite  
+**Tools:** Jupyter Notebook · FastAPI · Git · Postman
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📋 HireHelper — On-Demand Task Assistance Application
+*Infosys Springboard Internship 6.0 · Feb 2026 – Apr 2026*
+
+A full stack on-demand task assistance web application built as part of the Infosys Springboard program. Developed end-to-end with React and Next.js on the frontend, a REST API backend, and MongoDB for data persistence.  
+`React` `Next.js` `MongoDB` `REST API` `Node.js` `JavaScript`
+
+---
 
 ### 🤖 [AI Legal Assistant for SMEs](https://github.com/anusha2004319/legal-assistant)
 Contract analysis tool using Claude API + spaCy NLP to extract clauses, flag risks, and generate plain-language summaries — built for Indian small businesses.  
 `Python` `Claude API` `spaCy` `Streamlit` `NLP`
 
 ### 🌍 [Global Pulse Countdown](https://github.com/anusha2004319/global-pulse-countdown)
-Interactive voxel game where each level is powered by live earthquake and weather data — turning global real-world systems into a playable experience.  
+Interactive voxel game where each level is powered by live earthquake and weather data — turning global systems into a playable experience.  
 `TypeScript` `Vite` `Node.js` `Gemini API`
 
 ### 🏠 [House Price Prediction App](https://github.com/anusha2004319/house-price-app)
@@ -35,12 +44,19 @@ Built for the India Runs Data & AI Challenge — ranks candidates by skills, car
 
 ---
 
+## 🏅 Certifications
+
+**Certificate of Completion — Infosys Springboard Internship 6.0**  
+HireHelper: Development of an On-Demand Task Assistance Application  
+*Issued May 27, 2026 · Infosys Limited · Verified at verify.onwingspan.com*
+
+---
+
 ## 📚 Currently learning
 
-- React + Next.js for full stack web development
-- SQL + PostgreSQL for data analytics roles
-- REST API design with FastAPI
-- Power BI / Tableau for business intelligence
+- Advanced Next.js — App Router, server components, and deployment
+- Power BI / Tableau for business intelligence and dashboards
+- System design fundamentals
 
 ---
 
